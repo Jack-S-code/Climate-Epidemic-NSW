@@ -1,4 +1,4 @@
-# climate-epidemic-NSW
+# Climate-Epidemic-NSW
 
 This project focuses on the analysis of influenza outbreak data in the New South Wales region of Australia over a six-month period, and assumes climate change as an influencing factor in the basic establishment of the epidemic model.
 
