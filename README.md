@@ -3,6 +3,9 @@
 This project focuses on the analysis of influenza outbreak data in the New South Wales region of Australia over a six-month period, and assumes climate change as an influencing factor in the basic establishment of the epidemic model.
 
 The data source is the Department of Health and Meteorology of New South Wales, Australia
+https://www.health.nsw.gov.au/data/Topics/Pages/Infectious-diseases.aspx
+http://www.bom.gov.au/
+
 The regression is finished on SPSSPRO, while the data processing used Python NumPy.
 
 ## Contributors
