@@ -1,0 +1,24 @@
+import pandas
+
+from spsspro.algorithm import descriptive_analysis
+
+data = pandas.DataFrame({
+    "A": [1, 2, 3],
+    "B": [2, 3, 4]
+})
+
+result = descriptive_analysis.correlation_analysis(data)
+print(result)
+    
+import pandas
+
+from spsspro.algorithm import descriptive_analysis
+
+data = pandas.DataFrame({
+    "A": [1, 2, 3],
+    "B": [2, 3, 4]
+})
+
+result = descriptive_analysis.correlation_analysis(data)
+print(result)
+    

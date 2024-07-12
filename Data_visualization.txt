@@ -1,0 +1,11 @@
+import pandas
+
+from spsspro.algorithm import descriptive_analysis
+
+data = pandas.DataFrame({
+    "A": [1, 2, 3, 4],
+    "B": [2, 3, 4, 5],
+})
+
+print(descriptive_analysis.descriptive_statistics(data))
+    
